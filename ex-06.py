@@ -1,5 +1,4 @@
 #6. Menu - Elabore um programa que mostre o seguinte menu na tela:
-Cadastro de Clientes
 print("Cadastro de Clientes")
 print("0 - Fim")
 print("1 - Inclui")
