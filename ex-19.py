@@ -1,3 +1,4 @@
+#19) Ler 3 valores (considere que não serão informados valores iguais) e escrevê-los em ordem crescente.
 numero1 = int(input("Digite um numero:"))
 numero2 = int(input("Digite outro numero:"))
 numero3 = int(input("Digite mais um numero:"))
