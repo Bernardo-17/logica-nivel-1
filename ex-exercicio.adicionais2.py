@@ -10,3 +10,5 @@ elif(Nota >= 5) and (Nota <= 6.9):
     print("Recuperação")
 elif(Nota < 5):
     print("Reprovado")
+else:
+    print("Nota inválida")
